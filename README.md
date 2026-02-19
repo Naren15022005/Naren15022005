@@ -74,7 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Naren15022005/Naren15022005/output/snake.svg" alt="Snake animation" />
 
 ###
 
