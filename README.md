@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">* Building business management software, SaaS platforms, and structured backend systems<br>  *  Working with PHP (Laravel), JavaScript, React, and relational database<br>  *  Focused on clean architecture, maintainability, and production-ready code<br>  *  Interested in system design, performance, and real-world problem solving</p>
+<p data-importer="text" align="left"> Building business management software, SaaS platforms, and structured backend systems<br>    Working with PHP (Laravel), JavaScript, React, and relational database<br>    Focused on clean architecture, maintainability, and production-ready code<br>    Interested in system design, performance, and real-world problem solving</p>
 
 ###
 
